@@ -2,8 +2,8 @@
 
 
 <div style="text-align:center;">
-  <img src="PROJECT/avatar.jpg" alt="Пример изображения" width="500" height="500" style="display:block; margin:auto;">
   <p style="font-weight:bold;">MovieBot</p>
+  <img src="PROJECT/avatar.jpg" alt="Пример изображения" width="500" height="500" style="display:block; margin:auto;">
 </div>
 
 
