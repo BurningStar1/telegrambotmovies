@@ -2,9 +2,11 @@
 telegram bot for watching movies
 # MovieBot
 
-<img src="PROJECT/avatar.jpg" alt="альтернативный текст">
-<img src="PROJECT/telegram-color.svg" alt="Пример изображения" width="300" height="200">
+<img src="PROJECT/avatar.jpg" alt="альтернативный текст" width="300" height="200">
 
+<a href="https://www.example.com">
+  <img src="PROJECT/telegram-color.svg" alt="Пример изображения" width="300" height="200">
+</a>
 MovieBot - это бот-сервис в Telegram, который поможет вам с выбором и просмотром фильмов. Мы создаем базу данных, содержащую информацию о множестве фильмов и ссылки для их просмотра. После чего, на основе выбранных пользователем параметров фильма, мы предоставляем ему соответствующие данные.
 
 ## Назначение проекта
