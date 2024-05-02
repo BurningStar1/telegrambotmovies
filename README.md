@@ -1,8 +1,11 @@
-# telegrambotmovies
-telegram bot for watching movies
 # MovieBot
 
-<img src="PROJECT/avatar.jpg" alt="CinemaBot" width="500" height="500">
+<div style="text-align:center;">
+  <a>
+    <img src="PROJECT/avatar.jpg" alt="CinemaBot" width="500" height="500">
+   <p style="font-weight:bold;">MovieBot</p>
+  </a>
+</div>
 
 <a href="https://t.me/CinemaNovikovPrepelitsaBot">
   <img src="PROJECT/telegram-color.svg" alt="TelegramBot" width="300" height="200">
@@ -16,9 +19,9 @@ MovieBot - это бот-сервис в Telegram, который поможет
 
 ## Управление
 
-1. **Разработка механизма парсинга:** Разработать механизм парсинга определенного сайта для получения информации о фильмах, включая название, жанр, год выпуска, режиссера, актеров и рейтинг.
+1. **Начало пользование:** Нажмите кнопку **СТАРТ** или напишите команду **/start**
 
-2. **Создание базы данных:** Создать базу данных, в которой будет храниться полученная информация о фильмах, а также ссылки на ресурсы для их просмотра.
+2. **Поиск фильма:** Нажмите на кнопку **Искать фильм** или напишите команду **/search**
 
 3. **Разработка бота в Telegram:** Разработать бота в Telegram с учетом функционала, описанного выше, который будет предоставлять пользователям рекомендации и информацию о фильмах.
 
