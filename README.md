@@ -1,7 +1,7 @@
 # MovieBot
 
 <div style="text-align:center;">
-  <a>
+  <a href="https://www.example.com">
     <img src="PROJECT/avatar.jpg" alt="CinemaBot" width="500" height="500">
    <p style="font-weight:bold;">MovieBot</p>
   </a>
