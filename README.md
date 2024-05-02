@@ -1,11 +1,11 @@
 # MovieBot
 
+
 <div style="text-align:center;">
-  <a href="https://www.example.com">
-    <img src="PROJECT/avatar.jpg" alt="CinemaBot" width="500" height="500">
-   <p style="font-weight:bold;">MovieBot</p>
-  </a>
+  <img src="PROJECT/avatar.jpg" alt="Пример изображения" style="display:block; margin:auto;">
+  <p style="font-weight:bold;">Заголовок</p>
 </div>
+
 
 <a href="https://t.me/CinemaNovikovPrepelitsaBot">
   <img src="PROJECT/telegram-color.svg" alt="TelegramBot" width="300" height="200">
